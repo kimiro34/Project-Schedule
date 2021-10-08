@@ -2,7 +2,7 @@
 
 ## Kimiro
 
-- **fix minor mistakes** *<---TODAY!--->*
+- ~~**fix minor mistakes**~~ *<---TODAY!--->*
 
  - **all tables prevent refreshing and spinner(see txns/list)** *<---TODAY!--->*
 
