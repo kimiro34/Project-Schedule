@@ -2,9 +2,9 @@
 
 ## Kimiro
 
-1 [] - all tables prevent refreshing and spinner(see txns/list) now
-2 [] - erc 20 top tokens(some tokens missing on frontend) now
-3 [] - toggle to top button now
+1 [] - all tables prevent refreshing and spinner(see txns/list)
+2 [] - erc 20 top tokens(some tokens missing on frontend) 
+3 [] - toggle to top button 
 4 [] - trnasction detail page decode/view input as, textarea resize over page, logs hex/dec button group changing
 5 [] - address page change as account type(anyswap, spookyswap, ...)
 
