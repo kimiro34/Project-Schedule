@@ -1,4 +1,4 @@
-# Project-Schedule till Oct 9th
+# Project-Schedule since Oct 9th
 
 ## Kimiro
 
