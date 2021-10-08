@@ -4,9 +4,9 @@
 
  - **all tables prevent refreshing and spinner(see txns/list)** *<---TODAY!--->*
 
- - **erc 20 top tokens(some tokens missing on frontend) *<---TODAY!--->*
+ - **erc 20 top tokens(some tokens missing on frontend)** *<---TODAY!--->*
 
- - **toggle to top button *<---TODAY!--->*
+ - **toggle to top button** *<---TODAY!--->*
 
  - trnasction detail page decode/view input as, textarea resize over page, logs hex/dec button group changing
 
@@ -15,9 +15,9 @@
 
 ## Narushi
 
- - **change mainnet/testnet button *<---TODAY!--->*
+ - **change mainnet/testnet button** *<---TODAY!--->*
 
- - **erc 721 both api/frontend *<---TODAY!--->*
+ - **erc 721 both api/frontend** *<---TODAY!--->*
 
  - top statistics (api/ frontend) 
 
@@ -26,11 +26,11 @@
 
 ## Tamaki
 
- - **verified contracts(api, frontend) Tamaki: frontend *<---TODAY!--->*
+ - **verified contracts(api, frontend) Tamaki: frontend** *<---TODAY!--->*
 
- - **top accounts percentage calcuate correctly(now infinity) *<---TODAY!--->*
+ - **top accounts percentage calcuate correctly(now infinity)** *<---TODAY!--->*
 
- - **contract internal transactions (api/frontend) *<---TODAY!--->* (api only)
+ - **contract internal transactions (api/frontend)** *<---TODAY!--->* (api only)
 
  - Misc page
 
