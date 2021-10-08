@@ -2,11 +2,11 @@
 
 ## Kimiro
 
- - all tables prevent refreshing and spinner(see txns/list)
+ - **all tables prevent refreshing and spinner(see txns/list) *TODAY!*
 
- - erc 20 top tokens(some tokens missing on frontend) 
+ - **erc 20 top tokens(some tokens missing on frontend) *TODAY!*
 
- - toggle to top button 
+ - **toggle to top button *TODAY!*
 
  - trnasction detail page decode/view input as, textarea resize over page, logs hex/dec button group changing
 
@@ -15,9 +15,9 @@
 
 ## Narushi
 
- - change mainnet/testnet button
+ - **change mainnet/testnet button *TODAY!*
 
- - erc 721 both api/frontend 
+ - **erc 721 both api/frontend *TODAY!*
 
  - top statistics (api/ frontend) 
 
@@ -26,11 +26,11 @@
 
 ## Tamaki
 
- - verified contracts(api, frontend) Tamaki: frontend
+ - **verified contracts(api, frontend) Tamaki: frontend *TODAY!*
 
- - top accounts percentage calcuate correctly(now infinity)
+ - **top accounts percentage calcuate correctly(now infinity) *TODAY!*
 
- - contract internal transactions (api/frontend) 
+ - **contract internal transactions (api/frontend) *TODAY!* (api only)
 
  - Misc page
 
