@@ -2,44 +2,44 @@
 
 ## Kimiro
 
-1 [] - all tables prevent refreshing and spinner(see txns/list)
+ - all tables prevent refreshing and spinner(see txns/list)
 
-2 [] - erc 20 top tokens(some tokens missing on frontend) 
+ - erc 20 top tokens(some tokens missing on frontend) 
 
-3 [] - toggle to top button 
+ - toggle to top button 
 
-4 [] - trnasction detail page decode/view input as, textarea resize over page, logs hex/dec button group changing
+ - trnasction detail page decode/view input as, textarea resize over page, logs hex/dec button group changing
 
-5 [] - address page
+ - address page
 
 
 ## Narushi
 
-1 [] - change mainnet/testnet button
+ - change mainnet/testnet button
 
-2 [] - erc 721 both api/frontend 
+ - erc 721 both api/frontend 
 
-3 [] - top statistics (api/ frontend) 
+ - top statistics (api/ frontend) 
 
-4 [] - comments (transaction detail page, )
+ - comments (transaction detail page, )
 
 
 ## Tamaki
 
-1 [] - verified contracts(api, frontend) Tamaki: frontend
+ - verified contracts(api, frontend) Tamaki: frontend
 
-2 [] - top accounts percentage calcuate correctly(now infinity)
+ - top accounts percentage calcuate correctly(now infinity)
 
-3 [] - contract internal transactions (api/frontend) 
+ - contract internal transactions (api/frontend) 
 
-4 [] - Misc page
+ - Misc page
 
-  [] * misc/apis (api/frontend) Tamaki
+   * misc/apis (api/frontend) Tamaki
   
-  [] * byte to opcode (change to text area)
+   * byte to opcode (change to text area)
   
-  [] * broadcast tx frontend (change to text area)
+   * broadcast tx frontend (change to text area)
   
-  [] * vyper online compiler frontend
+   * vyper online compiler frontend
 
-[] Change Theme(All together)
+ Change Theme(All together)
