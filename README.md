@@ -2,6 +2,8 @@
 
 ## Kimiro
 
+- **fix minor mistakes** *<---TODAY!--->*
+
  - **all tables prevent refreshing and spinner(see txns/list)** *<---TODAY!--->*
 
  - **erc 20 top tokens(some tokens missing on frontend)** *<---TODAY!--->*
