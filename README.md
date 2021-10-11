@@ -44,4 +44,22 @@
   
    * vyper online compiler frontend
 
- Change Theme(All together)
+ Change Theme(All together
+ 
+ # Oct 11th 10 a.m - Oct 12 10 a.m
+ 
+ ### Kimiro
+ 
+ * Sent/Receive counting on sync-server side for statistics
+ * Toggle top button
+ * Transaction decode frontend
+ * Make skeleton sturcture for daark theme provider
+
+### Narushi
+
+* Top statistics overview/transactions tab
+
+### Tamaki
+
+* Contract internal transactions api/frontend
+* Misc/apis, contracts
