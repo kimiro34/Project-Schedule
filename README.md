@@ -4,6 +4,7 @@
 | No | Date | Kimiro | Narushi | Tamaki | Note |
 |---|-----|-----|-----|-----|-----------------------------------|
 |1|Oct 11th|100|150|70|[Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
+|2|Oct 12th||||[Job description](https://github.com/kimiro34/Project-Schedule#oct-12th-10-am---oct-13-10-am)|
 |Sum||||||
 
 
@@ -78,7 +79,7 @@
 * ~~Misc/apis, contracts~~ (To tommrrow)
 * Transaction decode frontend (incomplete)
 
-# Oct 12th 10 a.m - Oct 12 10 a.m
+# Oct 12th 10 a.m - Oct 13 10 a.m
  
  ### Kimiro
  
