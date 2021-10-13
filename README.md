@@ -4,8 +4,9 @@
 | No | Date | Kimiro | Narushi | Tamaki | Note |
 |---|-----|-----|-----|-----|-----------------------------------|
 |1|Oct 11th|100|150|70|[Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
-|2|Oct 12th||||[Job description](https://github.com/kimiro34/Project-Schedule#oct-12th-10-am---oct-13-10-am)|
-|Sum||||||
+|2|Oct 12th|60|100|100|[Job description](https://github.com/kimiro34/Project-Schedule#oct-12th-10-am---oct-13-10-am)|
+|3|Oct 13th||||[Job description](https://github.com/kimiro34/Project-Schedule#oct-13th-10-am---oct-14-10-am)|
+|Sum||160|250|170||
 
 
 
@@ -77,24 +78,57 @@
 * ~~Contract internal transactions api/frontend~~
 * ~~add dark themes forMisc pages  ~~
 * ~~Misc/apis, contracts~~ (To tommrrow)
-* Transaction decode frontend (incomplete)
+* ~~Transaction decode frontend (incomplete) ~~
 
 # Oct 12th 10 a.m - Oct 13 10 a.m
  
  ### Kimiro
  
  * Web socket for home page
- * Top statistics (token and network tab)
+ * Top statistics (token and network tab) (~~api~~/frontend)
 
 ### Narushi
 
 * Top statistics overview/transactions tab
-* Modify table background color and font colors for dark themes on 10 table pages and 9 charts and sign in/up pages
+* ~~Modify table background color and font colors for dark themes on 10 table pages and 9 charts and sign in/up pages~~
 
 ### Tamaki
 
 * add api for Misc/apis
 * integrate byte-to-opcode, broadcast-txn page apis with frontend
-* update misc page dark themes as [bscscan.com](bscscan.com).
-* add dark theme for transaction detail page
+* ~~update misc page dark themes as [bscscan.com](bscscan.com).~~
+* ~~add dark theme for transaction detail page~~
 
+# Oct 12th 10 a.m - Oct 13 10 a.m
+ 
+ ### Kimiro
+ 
+ * Web socket for home page
+ * Top statistics (token and network tab) (~~api~~/frontend)
+
+### Narushi
+
+* Top statistics overview/transactions tab
+* ~~Modify table background color and font colors for dark themes on 10 table pages and 9 charts and sign in/up pages~~
+
+### Tamaki
+
+* add api for Misc/apis
+* integrate byte-to-opcode, broadcast-txn page apis with frontend
+* ~~update misc page dark themes as [bscscan.com](bscscan.com).~~
+* ~~add dark theme for transaction detail page~~
+
+# Oct 13th 10 a.m - Oct 14 10 a.m
+ 
+ ### Kimiro
+ 
+ * DB design report
+ * Address page research and prepare db for address page
+
+### Narushi
+
+* Top statistics overview/transactions/network frontend, overview/transactions api
+
+### Tamaki
+
+* (Go on yesterday job)
