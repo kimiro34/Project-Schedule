@@ -118,7 +118,8 @@
 ### John (Oct 13 8 p.m - Oct 14 8 p.m)
 
 * update homepage dark theme as same as [bscscan.com](bscscan.com) [50] (40)
-* top bar & top toggle button change z-index (20)
+* top bar (15)
+* top toggle button change z-index (5)
 * make todo list for theme change throught out whole page (doc or xlsx) (40)
 
 # Oct 14th 10 a.m - Oct 15 10 a.m
