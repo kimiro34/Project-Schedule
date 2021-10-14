@@ -90,32 +90,13 @@
 
 ### Narushi
 
-* Top statistics overview/transactions tab
+* Top statistics overview/transactions tab (~~redux~~/view)
 * ~~Modify table background color and font colors for dark themes on 10 table pages and 9 charts and sign in/up pages~~
 
 ### Tamaki
 
 * add api for Misc/apis
-* integrate byte-to-opcode, broadcast-txn page apis with frontend
-* ~~update misc page dark themes as [bscscan.com](bscscan.com).~~
-* ~~add dark theme for transaction detail page~~
-
-# Oct 12th 10 a.m - Oct 13 10 a.m
- 
- ### Kimiro
- 
- * Web socket for home page
- * Top statistics (token and network tab) (~~api~~/frontend)
-
-### Narushi
-
-* Top statistics overview/transactions tab
-* ~~Modify table background color and font colors for dark themes on 10 table pages and 9 charts and sign in/up pages~~
-
-### Tamaki
-
-* add api for Misc/apis
-* integrate byte-to-opcode, broadcast-txn page apis with frontend
+* ~~integrate byte-to-opcode, broadcast-txn page apis with frontend~~
 * ~~update misc page dark themes as [bscscan.com](bscscan.com).~~
 * ~~add dark theme for transaction detail page~~
 
@@ -123,12 +104,12 @@
  
  ### Kimiro
  
- * DB design report
- * Address page research and prepare db for address page
+ * ~~DB design report~~
+ * ~~Address page research and prepare db for address page~~
 
 ### Narushi
 
-* Top statistics overview/transactions/network frontend, overview/transactions api
+* Top statistics overview/transactions/network frontend, overview/transactions api (~~redux~~/view)
 
 ### Tamaki
 
