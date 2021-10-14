@@ -1,12 +1,12 @@
 
 # Oct week 2: Daily job complete percentage
 
-| No | Date | Kimiro | Narushi | Tamaki | Note |
-|---|-----|-----|-----|-----|-----------------------------------|
-|1|Oct 11th|100|150|70|[Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
-|2|Oct 12th|60|100|100|[Job description](https://github.com/kimiro34/Project-Schedule#oct-12th-10-am---oct-13-10-am)|
-|3|Oct 13th||||[Job description](https://github.com/kimiro34/Project-Schedule#oct-13th-10-am---oct-14-10-am)|
-|Sum||160|250|170||
+| No | Date | Kimiro | Narushi | Tamaki | John |Note |
+|---|-----|-----|-----|-----|:-----:|-----------------------------------|
+|1|Oct 11th|100|150|70| - | [Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
+|2|Oct 12th|60|100|100| - | [Job description](https://github.com/kimiro34/Project-Schedule#oct-12th-10-am---oct-13-10-am)|
+|3|Oct 13th|100|70| 70| |[Job description](https://github.com/kimiro34/Project-Schedule#oct-13th-10-am---oct-14-10-am)|
+|Sum||160|250|170| | |
 
 
 
@@ -132,3 +132,9 @@
 ### Tamaki
 
 * (Go on yesterday job)
+
+### John (Oct 13 8 p.m - Oct 14 8 p.m)
+
+* update homepage dark theme as same as [bscscan.com](bscscan.com) [50] (40)
+* top bar & top toggle button change z-index (20)
+* make todo list for theme change throught out whole page (doc or xlsx) (40)
