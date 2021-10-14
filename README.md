@@ -6,7 +6,8 @@
 |1|Oct 11th|100|150|70| - | [Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
 |2|Oct 12th|60|100|100| - | [Job description](https://github.com/kimiro34/Project-Schedule#oct-12th-10-am---oct-13-10-am)|
 |3|Oct 13th|100|70| 70| |[Job description](https://github.com/kimiro34/Project-Schedule#oct-13th-10-am---oct-14-10-am)|
-|Sum||160|250|170| | |
+|4|Oct 14th||| | |[Job description](https://github.com/kimiro34/Project-Schedule#oct-14th-10-am---oct-15-10-am)|
+|Sum||260|320|240| | |
 
 
 
@@ -138,3 +139,20 @@
 * update homepage dark theme as same as [bscscan.com](bscscan.com) [50] (40)
 * top bar & top toggle button change z-index (20)
 * make todo list for theme change throught out whole page (doc or xlsx) (40)
+
+# Oct 14th 10 a.m - Oct 15 10 a.m
+
+ ### Kimiro
+ 
+ * Top statistics frontend (80)
+ * Planning address page (20)
+
+### Narushi
+
+ * Top statistics frontend (80)
+ * Planning token page (20)
+ 
+### Tamaki
+
+* (Go on yesterday job) (60)
+* Misc page dark theme update as same as [bscscan.com](bscscan.com) (40)
