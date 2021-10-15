@@ -9,7 +9,7 @@
 |4|Oct 14th|80|80|80|90 |[Job description](https://github.com/kimiro34/Project-Schedule#oct-14th-10-am---oct-15-10-am)|
 |5|Oct 15th||| | |[Job description](https://github.com/kimiro34/Project-Schedule#oct-15th-10-am---oct-16-10-am)|
 |Sum|-|340|400|320|90 |1150 |
-|Avg|%|29.5|34.7|27.8|7.8 |1150 |
+|Avg|%|29.5|34.7|27.9|7.8 |100 |
 
 
 
@@ -128,15 +128,36 @@
 
  ### Kimiro
  
- * Top statistics frontend (80)
- * Planning address page (20)
+ * Top statistics frontend (80)(overview/~~transactions/tokens/network~~)
+ * ~~Planning address page (20)~~
 
 ### Narushi
 
- * Top statistics frontend (80)
+ * Top statistics frontend (80)(overview/~~transactions/tokens/network~~)
  * Planning token page (20)
  
 ### Tamaki
 
-* (Go on yesterday job) (60)
-* Misc page dark theme update as same as [bscscan.com](bscscan.com) (40)
+* ~~(Go on yesterday job) (60)~~
+* Misc page dark theme update as same as [bscscan.com](bscscan.com) (40) (10% done)
+
+# Oct 15th 10 a.m - Oct 16 10 a.m
+
+ ### Kimiro
+ 
+ * address/token page database/api design (100)
+
+### Narushi
+
+ * update address page theme (70)
+ * capture necessarites for address page (30)
+ 
+### Tamaki
+
+ * update token page theme (70)
+ * capture necessarites for token page (30)
+
+### John
+
+* Finish top menu and toggle button style (20)
+* add searchbox on table and makes it work (40)
