@@ -7,9 +7,9 @@
 |2|Oct 12th|60|100|100| - | [Job description](https://github.com/kimiro34/Project-Schedule#oct-12th-10-am---oct-13-10-am)|
 |3|Oct 13th|100|70| 70| |[Job description](https://github.com/kimiro34/Project-Schedule#oct-13th-10-am---oct-14-10-am)|
 |4|Oct 14th|80|80|80|90 |[Job description](https://github.com/kimiro34/Project-Schedule#oct-14th-10-am---oct-15-10-am)|
-|5|Oct 15th||| | |[Job description](https://github.com/kimiro34/Project-Schedule#oct-15th-10-am---oct-16-10-am)|
-|Sum|-|340|400|320|90 |1150/1300(done/plan) |
-|Avg|%|29.5|34.7|27.9|7.8 | 88% finished for schedule |
+|5|Oct 15th|100|100|100 | |[Job description](https://github.com/kimiro34/Project-Schedule#oct-15th-10-am---oct-16-10-am)|
+|Sum|-|440|500|420|90 |1450/1600(done/plan) |
+|Avg|%|30.3|34.4|28.9|6.2 | 90.6% finished for schedule |
 
 
 
