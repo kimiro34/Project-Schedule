@@ -11,6 +11,12 @@
 |Sum|-|440|500|420|90 |1450/1600(done/plan) |
 |Avg|%|30.3|34.4|28.9|6.2 | 90.6% finished for schedule |
 
+# Oct week 2: Daily job complete percentage
+
+| No | Date | Kimiro | Narushi | Tamaki | John |Note |
+|---|-----|-----|-----|-----|:-----:|-----------------------------------|
+|1|Oct 17th-22th|350|-|-| - | [Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
+
 
 
 # Project-Schedule since Oct 9th
@@ -161,3 +167,19 @@
 
 * Finish top menu and toggle button style (20)
 * add searchbox on table and makes it work (40)
+
+# Oct 2nd week
+- add contract/code, read contract, write contract tabs
+ * display source code/creation bytecode... on `code` tab (30)
+ * `read contract` tab : with web3js (50)
+ * `write contract` tab : with web3js and connect to metamask (60)
+- display holding tokens properly on address page (20)
+- display dynamic tabs according to address type (30)
+- divide address apis per tabs (50)
+- add api for `events` tab using `ethersjs` and `web3js` (40)
+- update sync server for `type` field and `decimals` field address collection (30)
+- test on zilionixx testnet using bot (50)
+
+
+
+
