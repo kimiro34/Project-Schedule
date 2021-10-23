@@ -17,6 +17,11 @@
 |---|-----|-----|-----|-----|:-----:|-----------------------------------|
 |1|Oct 17th-22th|350|-|-| - | [Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
 
+# Oct week 3: Daily job complete percentage
+
+| No | Date | Kimiro | Orion | Tamaki | John |Note |
+|---|-----|-----|-----|-----|:-----:|-----------------------------------|
+|1|Oct 25th-26th|||| | [Job description](https://github.com/kimiro34/Project-Schedule#oct-11th-10-am---oct-12-10-am)|
 
 
 # Project-Schedule since Oct 9th
@@ -168,7 +173,7 @@
 * Finish top menu and toggle button style (20)
 * add searchbox on table and makes it work (40)
 
-# Oct 2nd week
+# Oct 2nd week - jobs done
 - add contract/code, read contract, write contract tabs
  * display source code/creation bytecode... on `code` tab (30)
  * `read contract` tab : with web3js (50)
@@ -180,6 +185,15 @@
 - update sync server for `type` field and `decimals` field address collection (30)
 - test on zilionixx testnet using bot (50)
 
+# Oct week 3 job plans
+- Finish address page - mainly analytics tab (300)
+- Finsih token page - (500)
+- Fix all warnings on frontend - (150)
+- Add dark theme for incomplete pages - (100)
+- Modify typos like etherscan/bscscan/... (50)
+- connect metamask on homepage (50)
+- Fix top statistics page api errors (150)
 
+Total:(1300)
 
 
