@@ -24,6 +24,8 @@
 |1|Oct 25th-26th|||| | [Job description](https://github.com/kimiro34/Project-Schedule/blob/main/README.md#oct-week-3-job-plans)|
 
 
+
+
 # Project-Schedule since Oct 9th
 
 ## Kimiro
